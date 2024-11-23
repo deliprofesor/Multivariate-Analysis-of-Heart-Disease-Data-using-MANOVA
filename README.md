@@ -2,7 +2,7 @@
 
 Bu proje, kalp hastalığına dair verileri kullanarak çok değişkenli varyans analizi (MANOVA) gerçekleştirmeyi amaçlamaktadır. Çeşitli normallik testleri, aykırı değer tespiti, varyans homojenliği testleri ve post-hoc testler ile veri setinin analizi yapılmıştır. Ayrıca, MANOVA modelinin performansı çapraz doğrulama (cross-validation) ile test edilmiştir. Projede kullanılan veriler, göğüs ağrısı tipi (cp) ve iki sürekli değişken (kolesterol ve maksimum kalp hızı) üzerinde yoğunlaşmaktadır.
 
-#Kullanılan Yöntemler:
+# Kullanılan Yöntemler:
 
 - **Shapiro-Wilk Normallik Testi**
 - **Aykırı Değerlerin Filtrelenmesi**
