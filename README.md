@@ -7,8 +7,8 @@ Bu proje, kalp hastalığına dair verileri kullanarak çok değişkenli varyans
 - **Shapiro-Wilk Normallik Testi**
 - **Aykırı Değerlerin Filtrelenmesi**
 - **Bartlett ve Levene Varyans Homojenliği Testleri**
-**Box's M Testi
-**MANOVA Modeli ve Post-Hoc Testler (Welch ANOVA, Tukey HSD, Games-Howell)
-**Korelasyon Analizi ve Etki Büyüklüğü Hesaplaması
-**Multikollineerlik Testi (VIF)
-**Cross-Validation (Çapraz Doğrulama)
+- **Box's M Testi**
+- **MANOVA Modeli ve Post-Hoc Testler (Welch ANOVA, Tukey HSD, Games-Howell)**
+- **Korelasyon Analizi ve Etki Büyüklüğü Hesaplaması**
+- **Multikollineerlik Testi (VIF)**
+- **Cross-Validation (Çapraz Doğrulama)**
