@@ -1,5 +1,7 @@
 # Çok Değişkenli Varyans Analizi (MANOVA) ile Kalp Hastalığı Verisi Analizi
 
+![HEART](https://github.com/user-attachments/assets/1c54ef5d-a387-4905-9ae7-da5e856b0c13)
+
 Bu proje, kalp hastalığına dair verileri kullanarak çok değişkenli varyans analizi (MANOVA) gerçekleştirmeyi amaçlamaktadır. Çeşitli normallik testleri, aykırı değer tespiti, varyans homojenliği testleri ve post-hoc testler ile veri setinin analizi yapılmıştır. Ayrıca, MANOVA modelinin performansı çapraz doğrulama (cross-validation) ile test edilmiştir. Projede kullanılan veriler, göğüs ağrısı tipi (cp) ve iki sürekli değişken (kolesterol ve maksimum kalp hızı) üzerinde yoğunlaşmaktadır.
 
 # Kullanılan Yöntemler:
