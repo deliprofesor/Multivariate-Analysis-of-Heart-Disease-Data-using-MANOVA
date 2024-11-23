@@ -15,7 +15,7 @@ Bu proje, kalp hastalığına dair verileri kullanarak çok değişkenli varyans
 - **Multikollineerlik Testi (VIF)**
 - **Cross-Validation (Çapraz Doğrulama)**
 
-# 1. Veri Yükleme ve Hazırlık
+1. Veri Yükleme ve Hazırlık
 Bu kısımda heart.csv adlı veri dosyası yükleniyor ve veri seti incelenmek için View() fonksiyonu ile görüntüleniyor.
 
 2. Normallik Testi (Shapiro-Wilk Testi)
