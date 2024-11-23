@@ -41,11 +41,9 @@ MANOVA (çoklu değişkenli varyans analizi) uygulanır. Bu modelde chol ve thal
 9. Post-Hoc Testler
 Bu adımda, MANOVA sonrasında grup karşılaştırmalarını yapabilmek için birkaç post-hoc test uygulanır:
 
-a) Welch ANOVA Testi: Gruplar arasındaki farkları test ederken heterojen varyansları dikkate alır.
-
-b) Tukey HSD Testi: Her grup arasındaki tüm çift karşılaştırmalarını yaparak hangi gruplar arasında anlamlı fark olduğunu belirler.
-
-c) Games-Howell Testi: Heterojen varyanslara sahip verilerde gruplar arası farkları incelemek için kullanılır.
+- **a) Welch ANOVA Testi: Gruplar arasındaki farkları test ederken heterojen varyansları dikkate alır.**
+- **b) Tukey HSD Testi: Her grup arasındaki tüm çift karşılaştırmalarını yaparak hangi gruplar arasında anlamlı fark olduğunu belirler.**
+- **c) Games-Howell Testi: Heterojen varyanslara sahip verilerde gruplar arası farkları incelemek için kullanılır.**
 
 10. Veri Keşif Analizi (Exploratory Data Analysis - EDA)
 Boxplot ile chol (kolesterol) ve thalach (maksimum kalp hızı) dağılımları, cp (göğüs ağrısı tipi) gruplarına göre görselleştirilir.
