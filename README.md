@@ -4,8 +4,8 @@ Bu proje, kalp hastalığına dair verileri kullanarak çok değişkenli varyans
 
 #Kullanılan Yöntemler:
 
-**Shapiro-Wilk Normallik Testi
-**Aykırı Değerlerin Filtrelenmesi
+**Shapiro-Wilk Normallik Testi**
+**Aykırı Değerlerin Filtrelenmesi**
 **Bartlett ve Levene Varyans Homojenliği Testleri
 **Box's M Testi
 **MANOVA Modeli ve Post-Hoc Testler (Welch ANOVA, Tukey HSD, Games-Howell)
